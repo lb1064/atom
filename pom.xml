@@ -11,7 +11,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <sourceDirectory>src</sourceDirectory>
+                <outputFile>${project.build.directory}/checkstyle-result.xml</outputFile>
                 <version>2.10</version>
             </plugin>
         </plugins>
