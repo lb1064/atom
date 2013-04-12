@@ -13,9 +13,7 @@
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>2.10</version>
                 <configuration>
-                    <outputFile>checkstyle-result.xml</outputFile>
-                    <sourceDirectory>src</sourceDirectory>
-                    <includes>**</includes>
+                    <sourceDirectory>**</sourceDirectory>
                 </configuration>
             </plugin>
         </plugins>
