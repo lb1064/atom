@@ -1,0 +1,28 @@
+{
+uuid:'dawdawawda',
+name:'档案管理员',
+orderNum:10, //自然数
+sys:true,
+remark:'我是一个档案管理员',
+appId:'档案管理',
+createdTime:'2012-12-00',
+createdBy:'appAdmin',
+gsoftGroups:[
+	{
+    uuid:'dawdaw111',//用户组uuid
+    name:'java组'//用户组名称
+	}
+],
+gsoftDeps:[
+	{
+    uuid:'dawd1111',//部门uuid
+    name:'产品部'//部门名称
+	}
+],
+gsoftUsers:[
+	{
+    uuid:'1111qqqqqq',//用户uuid
+    name:'zhangsan'//用户名称
+	}
+]
+}

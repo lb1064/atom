@@ -1,0 +1,22 @@
+{
+	uuid:'11adawd',
+	loginName:'zhangsan',
+	name:'张三',
+	mobile:'1222222222',
+	email:'daojainxiao2@163.com',
+	personId:'pes22',
+	authUuid:'authid9999',
+	depName:'研发部',
+	gsoftGroups:[
+		{
+   	 	uuid:'adawda',
+    	name:'用户组A'
+		}
+	],
+	gsoftRoles:[
+		{
+	    uuid:'dadada11111',
+	    name:'档案管理员'
+		}
+	] 
+}

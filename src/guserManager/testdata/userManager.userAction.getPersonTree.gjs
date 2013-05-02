@@ -1,0 +1,35 @@
+{
+    data:[{
+	    uuid:'1',
+	    path:'1',
+	    name:'中科天翔',
+	    xtype:'group',
+	    leaf:true,
+	    isGroup:true,
+	    children:[{
+			uuid:'11',
+			path:'11',
+			name:'研发一部',
+			xtype:'group', 
+			leaf:true,
+			isGroup:true,
+		    children:[{
+		    	uuid:'111',
+				path:'111',
+				name:'张三',
+				xtype:'group', 
+				leaf:false,
+				isGroup:false,
+				children:[]
+		    }]
+   		},{
+			uuid:'12',
+			path:'12',
+			name:'研发二部',
+			xtype:'group', 
+			leaf:false,
+			isGroup:true,
+		    children:[]
+   		}]
+	}]
+}

@@ -1,0 +1,50 @@
+{
+	data:[
+		{
+			 uuid:'',
+	   		 name:'中科天翔',
+	    	 xtype:'group',
+	    	 leaf:true,
+	    	 root:true,
+	    	 children:[
+	    	 	{
+		 			uuid:'whgsoft',
+		 			name:'武汉分公司',
+		 			xtype:'group',
+		 			leaf:false,
+		 			children:[
+		 				{
+	 						uuid:'product',
+				 			name:'产品部',
+				 			xtype:'group',
+				 			leaf:true,
+				 			children:[]
+		 				},
+		 				{
+	 						uuid:'design',
+				 			name:'设计部',
+				 			xtype:'group',
+				 			leaf:true,
+				 			children:[]
+		 				},
+		 				{
+	 						uuid:'test',
+				 			name:'测试部',
+				 			xtype:'group',
+				 			leaf:true,
+				 			children:[]
+		 				}
+		 			]
+	    	 	},
+	    	 	{
+		 			uuid:'dad111122221',
+		 			name:'杭州总部',
+		 			xtype:'group',
+		 			leaf:true
+	    	 	}
+	    	 ]
+		}
+	]
+	
+	
+}

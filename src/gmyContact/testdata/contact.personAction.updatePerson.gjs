@@ -1,0 +1,39 @@
+{
+	success : true/false ,
+	msg : '提示xxxxxxxx' ,
+	person:
+	{
+	"address":"光谷软件园E3-1201",
+	"businessFax":"333-44444",
+	"businessMobile":"027-87608396",
+	"company":"武汉中科天翔科技有限公司",
+	"email":"daojianxiao@163.com",
+	"houseMobile":"027-44560",
+	"iconuuid":"",
+	"isSystemUser":"0",
+	"jid":"11",
+	"msn":"msn1210886147",
+	"name":"王飞",
+	"organization":"",
+	"parentPath":"",
+	"parentUuid":"",
+	"path":"/应用平台/sunrao/应用目录/通讯录管理/个人通讯录/我的通讯录/组/联系人[5]",
+	"phone":"13888888888",
+	"position":"",
+	"post":"441300",
+	"postCode":"441300",
+	"qq":"1210886147",
+	"remark":"我叫王飞，是新添加的人员",
+	"sex":"男",
+	"signName":"我是王飞",
+	"signature":"王飞，项目经理，工程师",
+	"site":"www.baidu.com",
+	"status":"",
+	"toUuid":"",
+	"type":"",
+	"uuid":"5c5f905f-fa5c-4ef6-966e-14d07476ba8b"
+	}
+	"success":true,
+	"msg":"保存成功"
+}
+}

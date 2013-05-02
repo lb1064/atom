@@ -1,0 +1,5 @@
+{
+    "用户管理-角色-编辑":"guserManager/roles/editorRoles.js",
+    "用户管理-用户组-编辑":"guserManager/userGroups/editorGroups.js",
+    "用户管理-部门-编辑":"guserManager/departments/editorDept.js"
+}

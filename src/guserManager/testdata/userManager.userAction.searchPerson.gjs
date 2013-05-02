@@ -1,0 +1,23 @@
+{
+total:100,//总记录数
+data:[
+		{
+			uuid:'dadaa',
+		    loginName:'zhangsan',
+			name:'张三',
+			mobile:'138888888',
+		    depName:'研发部',
+		    gsoftGroups:[
+		    	{uuid:'dawa111',name:'用户组A'},
+		    	{uuid:'dawa111dwwdw',name:'用户组B'}	
+		    	],
+		    gsoftRoles:[
+		    	{uuid:'jjnjnjn1111',name:'档案管理员'},
+		    	{uuid:'jjnjnjn1112221',name:'系统管理员'}
+		    ],  
+		    sys:true,//角色类型：true 系统角色；false 自定义角色
+			remark:'111111',
+			bind:true
+		}
+  ]
+}

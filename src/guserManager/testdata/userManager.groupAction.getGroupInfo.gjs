@@ -1,0 +1,19 @@
+{
+	uuid:'11111',
+	name:'应用组',
+	orderNum:10, //自然数
+	sys:true,
+	remark:'我就是那个用户',
+	gsoftRoles:[
+		{
+	    uuid:'11dadad',
+	    name:'管理员'
+		}
+	],
+	gsoftUsers:[
+		{
+	    uuid:'11dadad',
+		name:'田军'
+		}
+	]
+}

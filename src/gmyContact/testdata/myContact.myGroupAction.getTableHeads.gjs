@@ -1,0 +1,32 @@
+{
+	mailInfo:[
+		{key:'姓，名，中文称谓',defaultValue:'姓名'},
+		{key:'性别',defaultValue:'性别'},
+		{key:'出生日期',defaultValue:'生日'},
+		{key:'公司',defaultValue:'公司'},
+		{key:'级别',defaultValue:'级别'},
+		{key:'职务',defaultValue:'职务'},
+		{key:'单位主要电话',defaultValue:'办公电话'},
+		{key:'移动电话',defaultValue:'手机'},
+		{key:'住宅电话',defaultValue:'家庭电话'},
+		{key:'商务邮箱',defaultValue:'办公邮箱'},
+		{key:'住宅邮箱',defaultValue:'家庭邮箱'},
+		{key:'其他邮箱',defaultValue:'邮箱'},
+		{key:'商务传真',defaultValue:'办公传真'},
+		{key:'住宅传真',defaultValue:'家庭传真'},
+		{key:'其他传真',defaultValue:'传真'},
+		{key:'商务传真',defaultValue:'办公传真'},
+		{key:'备注说明',defaultValue:'备注'}
+	],
+      
+	otherInfo:[
+		{key:'爸爸的电话',defaultValue:'父亲联系电话'},
+		{key:'妈妈的电话',defaultValue:'妈妈联系电话'},
+		{key:'家庭住址',defaultValue:'家庭住址'},
+		{key:'家庭住址邮编',defaultValue:'常住地址邮编'},
+		{key:'毕业学校',defaultValue:'毕业学校'},
+		{key:'兴趣',defaultValue:'兴趣爱好'},
+		{key:'身高',defaultValue:'身高'},
+		{key:'体重',defaultValue:'体重'}
+	]
+}

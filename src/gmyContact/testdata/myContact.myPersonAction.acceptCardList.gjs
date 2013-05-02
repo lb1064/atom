@@ -1,0 +1,30 @@
+{
+	data:[
+		{
+	     	 uuid:'111',
+			 sendPerson:'张三',
+			 sendTime:'2012-03-12',
+			 remark:'名片备注'
+		},
+		{
+	     	 uuid:'11111dwdaadaw1',
+			 sendPerson:'李四',
+			 sendTime:'2012-03-12',
+			  remark:'名片备注'
+		},
+		{
+	     	 uuid:'11adwd111dadaw1',
+			 sendPerson:'王五',
+			 sendTime:'2012-03-12',
+			 remark:'名片备注'
+		},
+		{
+	     	 uuid:'11111davvvdaw1',
+			 sendPerson:'赵六',
+			 sendTime:'2012-03-12',
+			 remark:'名片备注'
+		}
+	
+	]
+	
+}

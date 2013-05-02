@@ -1,0 +1,66 @@
+{
+	dataL[
+		{
+			uuid:'1111',
+			xtype:'group',
+			leaf:false,
+			name:'团队一',
+			children:[
+				{
+					uuid:'111adwad1',
+					xtype:'contact',
+					leaf:true,
+					name:'王飞'
+				},
+				{
+					uuid:'11dwadwa1',
+					xtype:'contact',
+					leaf:true,
+					name:'田军'
+				},
+				{
+					uuid:'111dddd1',
+					xtype:'contact',
+					leaf:true,
+					name:'朱凯'
+				},
+				{
+					uuid:'111dddd1',
+					xtype:'contact',
+					leaf:true,
+					name:'小胡'
+				}
+			]
+		},
+		{
+			uuid:'111wdawd1',
+			xtype:'group',
+			leaf:false,
+			name:'团队二',
+			children:[
+				{
+					uuid:'111adwad1',
+					xtype:'contact',
+					leaf:true,
+					name:'王飞'
+				},
+				{
+					uuid:'11dwadwa1',
+					xtype:'contact',
+					leaf:true,
+					name:'张三'
+				},
+				{
+					uuid:'111dddd1',
+					xtype:'contact',
+					leaf:true,
+					name:'李四'
+				}
+			]
+		}
+	
+	
+	]
+	
+	
+}

@@ -1,0 +1,99 @@
+{
+	data:[
+		{
+			uuid:'benju',
+			name:'本局通讯录',
+			xtype:'docFolder',
+			realName:'本局通讯录',
+			type:'2',
+            groupType : 'group',
+			memberType:'1',
+			children:[
+				{
+					uuid:'chanpinbu',
+					name:'产品部',
+					xtype:'docFolder',
+					memberType:'1',
+					realName:'产品部',
+					type:'2'
+				},
+				{
+					uuid:'benju2221',
+					name:'研发部',
+					memberType:'1',
+					xtype:'docFolder',
+					realName:'研发部',
+					type:'2'
+				},
+				{
+					uuid:'benju333',
+					name:'行政部',
+					memberType:'1',
+					xtype:'docFolder',
+					realName:'行政部',
+					type:'2'
+				},
+				{
+					uuid:'benju333adawdaw',
+					name:'田军',
+					memberType:'2',
+					xtype:'docFolder',
+					realName:'行政部',
+					type:'2'
+				},
+					{
+					uuid:'benju33dawdawdagggw3',
+					name:'李昂',
+					memberType:'2',
+					xtype:'docFolder',
+					realName:'行政部',
+					type:'2'
+				}
+				
+			]
+		},
+		{
+			uuid:'government',
+			name:'政府通讯录',
+			xtype:'group',
+			memberType:'1',
+			type:'2',
+            groupType : 'group',
+
+            realName:'政府通讯录',
+			children:[
+				{
+					uuid:'government22211',
+					memberType:'1',
+					name:'浙江省政府',
+					xtype:'group',
+					realName:'行政部',
+					type:'2'
+				},
+				{
+					uuid:'government2221122',
+					name:'杭州市政府',
+					memberType:'1',
+					xtype:'group',
+					realName:'行政部',
+					type:'2'
+				}
+			]
+		},
+		{
+			uuid:'hangye',
+			name:'行业通讯录',
+			memberType:'1',
+			xtype:'contact',
+			type:'2',
+            groupType : 'group',
+
+            realName:'行业通讯录',
+			children:[
+				
+			]
+		}
+	]
+
+
+}

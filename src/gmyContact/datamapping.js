@@ -1,0 +1,35 @@
+({
+	'gcontact.viewAllTonXunlu':{
+		'getAllTonxunlu':'modules/gmyContact/testdata/needdata1.js'
+	},
+	'gcontact.viewTonXunInfo11':{
+		'viewviewTonXunInfo11':'modules/gmyContact/testdata/needdata8.js'
+	},
+	'gcontact.getAllquanxianByContact':{
+		'getallPerbiew':'modules/gmyContact/testdata/needdata2.js'
+	},
+	'gcontact.savePerssionToUser':{
+		'savePerssion':'modules/gmyContact/testdata/needdata3.js'
+	},
+	'gcontact.saveNewaddContactLu':{
+		'addnewContact':'modules/gmyContact/testdata/needdata3.js'
+	},
+	'gcontact.savemyEditContactFolder':{
+		'saveEidtContact':'modules/gmyContact/testdata/needdata3.js'
+	},
+	'gcontact.deletemyContactFolder':{
+		'deleteContact':'modules/gmyContact/testdata/needdata3.js'
+	},
+	'gcontact.copymyContactFolder':{
+		'copyContact':'modules/gmyContact/testdata/needdata4.js'
+	},
+	'gcontact.expoContactFolder':{
+		'expoContactFolder':'modules/gmyContact/testdata/needdata5.js'
+	},
+	'gcontact.getAllpersonContactFolder':{
+		'getAllpersonContactFolders':'modules/gmyContact/testdata/needdata6.js'
+	},
+	'gcontact.getMyRealateFolder':{
+		'getMyRealateFolder':'modules/gmyContact/testdata/needdata7.js'
+	}
+});

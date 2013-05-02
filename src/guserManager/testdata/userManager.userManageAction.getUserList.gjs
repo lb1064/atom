@@ -1,0 +1,33 @@
+{
+    data:[
+            {
+              sys:true,
+              uuid:'1',
+              loginName:'zhangsan',
+              name:'张三', 
+              email:'sadfasdf'
+            },
+            {
+              sys:false,
+              uuid:'2',
+              loginName:'lisi',
+              name:'李四', 
+              email:'werdfsd'
+            },
+            {
+              sys:false,
+              uuid:'3',
+              loginName:'wangwu',
+              name:'王五', 
+              email:'asdgfdshgdh'
+            },
+            {
+              sys:true,
+              uuid:'4',
+              loginName:'赵六',
+              name:'赵六', 
+              email:'dfasdgsfdgsfd'
+            }
+         ]
+   
+}

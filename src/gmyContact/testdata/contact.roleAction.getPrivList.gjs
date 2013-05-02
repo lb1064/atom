@@ -1,0 +1,32 @@
+{
+data:[
+		{
+			'loginName':'登录名loginName11',
+		 	'showName':'王飞',
+			'roleType':'1',
+			'path':'/通讯录/本局通讯录',
+			 'roles':['show'],
+			'allowDel':true,
+			type:'1'
+		}
+		,
+		{
+			loginName:'登录名loginName222',//用于删除
+		 	showName:'郑赞欢',//用于显示
+			roleType:'1',//'1允许 2拒绝  ;权限类型',
+			'path':'/通讯录/本局通讯录',
+			 'roles':['show'],
+			allowDel:true,//'true/false是否可以删除'
+			type:'1'
+			},
+		{
+			loginName:'登录名loginName333',//用于删除
+		 	showName:'田军',//用于显示
+			roleType:'1',//'1允许 2拒绝  ;权限类型',
+			'path':'/通讯录/本局通讯录',
+			'roles':['show'],
+			allowDel:true,//'true/false是否可以删除'
+			type:'1'
+		}
+]
+}
